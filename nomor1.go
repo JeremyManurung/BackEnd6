@@ -29,6 +29,4 @@ func main() {
 
 	SimpleEquations(6, 6, 14) // 1 2 3
 
-	SimpleEquations(16, 50, 126) // no solution
-
 }
